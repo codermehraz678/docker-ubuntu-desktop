@@ -46,6 +46,8 @@ docker run -it --platform=linux/amd64 -p 6080:6080 docker-ubuntu-desktop
 - Web browser accessible (no VNC client needed)
 - noVNC web client included
 - Easy to deploy and use
+- ubuntu 25.04
+- 
 
 ## Access
 
